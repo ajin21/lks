@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "syncedAt": "2025-10-21T15:47:34.233Z",
+    "syncedAt": "2025-10-21T16:00:48.085Z",
     "version": "2.0.0",
-    "totalCategories": 1,
-    "totalProducts": 1
+    "totalCategories": 2,
+    "totalProducts": 2
   },
   "categories": [
     {
@@ -22,6 +22,23 @@
         }
       ],
       "updatedAt": "2025-10-21T15:39:33.388Z"
+    },
+    {
+      "createdAt": "2025-10-21T15:52:15.116Z",
+      "description": "洗衣粉",
+      "id": "8ad0849b-eeb3-4322-aca7-be3dfaab1228",
+      "name": "洗衣粉",
+      "order": 1,
+      "products": [
+        {
+          "id": "ba6a6dc3-8472-4674-a8ed-779c2fed91c2",
+          "name": "你好",
+          "platform": "京东",
+          "price": "水电费",
+          "url": "水电费"
+        }
+      ],
+      "updatedAt": "2025-10-21T15:52:15.116Z"
     }
   ]
 }
