@@ -1,9 +1,27 @@
 {
   "metadata": {
-    "syncedAt": "2025-10-21T14:57:29.049Z",
+    "syncedAt": "2025-10-21T15:39:35.511Z",
     "version": "2.0.0",
-    "totalCategories": 0,
-    "totalProducts": 0
+    "totalCategories": 1,
+    "totalProducts": 1
   },
-  "categories": []
+  "categories": [
+    {
+      "createdAt": "2025-10-21T15:39:33.388Z",
+      "description": "dsfsd",
+      "id": "35523476-212f-4eed-bd5f-658669ddc4d2",
+      "name": "dsfsd",
+      "order": 0,
+      "products": [
+        {
+          "id": "0b5b39f6-fa79-44ca-99fc-35649a004fd9",
+          "name": "sdfs",
+          "platform": "京东",
+          "price": "55",
+          "url": "sdfsd"
+        }
+      ],
+      "updatedAt": "2025-10-21T15:39:33.388Z"
+    }
+  ]
 }
