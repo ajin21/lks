@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "syncedAt": "2025-10-22T08:20:10.185Z",
+    "syncedAt": "2025-10-22T11:16:23.265Z",
     "version": "2.0.0",
-    "totalCategories": 5,
+    "totalCategories": 6,
     "totalProducts": 2
   },
   "categories": [
@@ -67,6 +67,15 @@
       "order": 4,
       "products": [],
       "updatedAt": "2025-10-22T08:14:53.606Z"
+    },
+    {
+      "createdAt": "2025-10-22T08:22:50.542Z",
+      "description": "洗发水",
+      "id": "24ee1360-fec6-48c3-8a20-f2ae838ada14",
+      "name": "洗发水",
+      "order": 5,
+      "products": [],
+      "updatedAt": "2025-10-22T08:22:50.542Z"
     }
   ]
 }
