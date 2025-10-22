@@ -1,435 +1,400 @@
 {
   "metadata": {
-    "syncedAt": "2025-10-22T13:37:32.204Z",
+    "syncedAt": "2025-10-22T13:45:09.029Z",
     "version": "2.0.0",
-    "totalCategories": 10,
-    "totalProducts": 35
+    "totalCategories": 11,
+    "totalProducts": 40
   },
   "categories": [
     {
-      "createdAt": "2025-01-15T10:00:00Z",
-      "description": "洗护用品",
-      "icon": "📦",
       "id": "cat-001",
       "name": "洗护用品",
+      "description": "洗护用品",
       "order": 0,
+      "createdAt": "2025-01-15T10:00:00Z",
+      "updatedAt": "2025-01-15T10:30:00Z",
       "products": [
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-001",
           "name": "海飞丝去屑洗发水",
-          "platform": "京东",
           "price": "¥49",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "京东",
           "url": "https://item.jd.com/100012345678.html"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-002",
           "name": "多芬沐浴露",
-          "platform": "天猫",
           "price": "¥35",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "天猫",
           "url": "https://detail.tmall.com/item.htm?id=123456789"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-003",
           "name": "舒肤佳香皂",
-          "platform": "拼多多",
           "price": "¥12",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "拼多多",
           "url": "https://mobile.yangkeduo.com/goods.html?goods_id=123456789"
         }
-      ],
-      "updatedAt": "2025-01-15T10:30:00Z"
+      ]
     },
     {
-      "createdAt": "2025-01-15T10:05:00Z",
-      "description": "手机",
-      "icon": "📦",
       "id": "cat-002",
       "name": "手机",
+      "description": "手机",
       "order": 1,
+      "createdAt": "2025-01-15T10:05:00Z",
+      "updatedAt": "2025-01-15T10:25:00Z",
       "products": [
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-004",
           "name": "小米14 Pro",
-          "platform": "小米商城",
           "price": "¥4999",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "小米商城",
           "url": "https://www.mi.com/xiaomi-14-pro"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-005",
           "name": "华为Mate 60 Pro",
-          "platform": "华为商城",
           "price": "¥6999",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "华为商城",
           "url": "https://www.vmall.com/product/10086123456789.html"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-006",
           "name": "iPhone 15 Pro",
-          "platform": "京东",
           "price": "¥7999",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "京东",
           "url": "https://item.jd.com/100087654321.html"
         }
-      ],
-      "updatedAt": "2025-01-15T10:25:00Z"
+      ]
     },
     {
-      "createdAt": "2025-01-15T10:10:00Z",
-      "description": "笔记本电脑",
-      "icon": "📦",
       "id": "cat-003",
       "name": "笔记本电脑",
+      "description": "笔记本电脑",
       "order": 2,
+      "createdAt": "2025-01-15T10:10:00Z",
+      "updatedAt": "2025-01-15T10:20:00Z",
       "products": [
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-007",
           "name": "联想小新Pro 16",
-          "platform": "京东",
           "price": "¥5499",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "京东",
           "url": "https://item.jd.com/100012345679.html"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-008",
           "name": "华为MateBook 14",
-          "platform": "华为商城",
           "price": "¥4999",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "华为商城",
           "url": "https://www.vmall.com/product/10086123456790.html"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-009",
           "name": "MacBook Air M2",
-          "platform": "天猫",
           "price": "¥8999",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "天猫",
           "url": "https://detail.tmall.com/item.htm?id=987654321"
         }
-      ],
-      "updatedAt": "2025-01-15T10:20:00Z"
+      ]
     },
     {
-      "createdAt": "2025-01-15T10:15:00Z",
-      "description": "护肤品",
-      "icon": "📦",
       "id": "cat-004",
       "name": "护肤品",
+      "description": "护肤品",
       "order": 3,
+      "createdAt": "2025-01-15T10:15:00Z",
+      "updatedAt": "2025-01-15T10:18:00Z",
       "products": [
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-010",
           "name": "欧莱雅面霜",
-          "platform": "天猫",
           "price": "¥199",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "天猫",
           "url": "https://detail.tmall.com/item.htm?id=234567890"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-011",
           "name": "SK-II神仙水",
-          "platform": "京东",
           "price": "¥1290",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "京东",
           "url": "https://item.jd.com/100045678901.html"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-012",
           "name": "兰蔻小黑瓶",
-          "platform": "天猫",
           "price": "¥760",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "天猫",
           "url": "https://detail.tmall.com/item.htm?id=345678901"
         }
-      ],
-      "updatedAt": "2025-01-15T10:18:00Z"
+      ]
     },
     {
-      "createdAt": "2025-01-15T10:20:00Z",
-      "description": "厨房电器",
-      "icon": "📦",
       "id": "cat-005",
       "name": "厨房电器",
+      "description": "厨房电器",
       "order": 4,
+      "createdAt": "2025-01-15T10:20:00Z",
+      "updatedAt": "2025-01-15T10:22:00Z",
       "products": [
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-013",
           "name": "九阳豆浆机",
-          "platform": "京东",
           "price": "¥299",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "京东",
           "url": "https://item.jd.com/100023456789.html"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-014",
           "name": "美的电饭煲",
-          "platform": "天猫",
           "price": "¥399",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "天猫",
           "url": "https://detail.tmall.com/item.htm?id=456789012"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-015",
           "name": "苏泊尔炒锅",
-          "platform": "拼多多",
           "price": "¥189",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "拼多多",
           "url": "https://mobile.yangkeduo.com/goods.html?goods_id=234567890"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-016",
           "name": "小熊养生壶",
-          "platform": "京东",
           "price": "¥159",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "京东",
           "url": "https://item.jd.com/100034567890.html"
         }
-      ],
-      "updatedAt": "2025-01-15T10:22:00Z"
+      ]
     },
     {
-      "createdAt": "2025-01-15T10:25:00Z",
-      "description": "运动健身",
-      "icon": "📦",
       "id": "cat-006",
       "name": "运动健身",
+      "description": "运动健身",
       "order": 5,
+      "createdAt": "2025-01-15T10:25:00Z",
+      "updatedAt": "2025-01-15T10:26:00Z",
       "products": [
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-017",
           "name": "Keep跑步机",
-          "platform": "京东",
           "price": "¥2999",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "京东",
           "url": "https://item.jd.com/100045678901.html"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-018",
           "name": "迪卡侬瑜伽垫",
-          "platform": "天猫",
           "price": "¥99",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "天猫",
           "url": "https://detail.tmall.com/item.htm?id=567890123"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-019",
           "name": "李宁运动鞋",
-          "platform": "京东",
           "price": "¥399",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "京东",
           "url": "https://item.jd.com/100056789012.html"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-020",
           "name": "安踏篮球",
-          "platform": "拼多多",
           "price": "¥129",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "拼多多",
           "url": "https://mobile.yangkeduo.com/goods.html?goods_id=345678901"
         }
-      ],
-      "updatedAt": "2025-01-15T10:26:00Z"
+      ]
     },
     {
-      "createdAt": "2025-01-15T10:28:00Z",
-      "description": "图书文具",
-      "icon": "📦",
       "id": "cat-007",
       "name": "图书文具",
+      "description": "图书文具",
       "order": 6,
+      "createdAt": "2025-01-15T10:28:00Z",
+      "updatedAt": "2025-01-15T10:29:00Z",
       "products": [
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-021",
           "name": "三体全集",
-          "platform": "京东",
           "price": "¥89",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "京东",
           "url": "https://item.jd.com/100067890123.html"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-022",
           "name": "晨光文具套装",
-          "platform": "天猫",
           "price": "¥45",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "天猫",
           "url": "https://detail.tmall.com/item.htm?id=678901234"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-023",
           "name": "得力计算器",
-          "platform": "拼多多",
           "price": "¥29",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "拼多多",
           "url": "https://mobile.yangkeduo.com/goods.html?goods_id=456789012"
         }
-      ],
-      "updatedAt": "2025-01-15T10:29:00Z"
+      ]
     },
     {
-      "createdAt": "2025-01-15T10:30:00Z",
-      "description": "家居用品",
-      "icon": "📦",
       "id": "cat-008",
       "name": "家居用品",
+      "description": "家居用品",
       "order": 7,
+      "createdAt": "2025-01-15T10:30:00Z",
+      "updatedAt": "2025-01-15T10:31:00Z",
       "products": [
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-024",
           "name": "无印良品收纳盒",
-          "platform": "天猫",
           "price": "¥59",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "天猫",
           "url": "https://detail.tmall.com/item.htm?id=789012345"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-025",
           "name": "宜家衣架套装",
-          "platform": "京东",
           "price": "¥39",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "京东",
           "url": "https://item.jd.com/100078901234.html"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-026",
           "name": "南极人四件套",
-          "platform": "拼多多",
           "price": "¥199",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "拼多多",
           "url": "https://mobile.yangkeduo.com/goods.html?goods_id=567890123"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-027",
           "name": "小米智能台灯",
-          "platform": "小米商城",
           "price": "¥149",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "小米商城",
           "url": "https://www.mi.com/desk-lamp"
         }
-      ],
-      "updatedAt": "2025-01-15T10:31:00Z"
+      ]
     },
     {
-      "createdAt": "2025-01-15T10:32:00Z",
-      "description": "宠物用品",
-      "icon": "📦",
       "id": "cat-009",
       "name": "宠物用品",
+      "description": "宠物用品",
       "order": 8,
+      "createdAt": "2025-01-15T10:32:00Z",
+      "updatedAt": "2025-01-15T10:33:00Z",
       "products": [
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-028",
           "name": "皇家猫粮",
-          "platform": "京东",
           "price": "¥168",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "京东",
           "url": "https://item.jd.com/100089012345.html"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-029",
           "name": "小佩智能猫砂盆",
-          "platform": "天猫",
           "price": "¥899",
-          "updatedAt": "2025-10-22T13:32:36.194Z",
+          "platform": "天猫",
           "url": "https://detail.tmall.com/item.htm?id=890123456"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.194Z",
           "id": "prod-030",
           "name": "宠物自动喂食器",
-          "platform": "京东",
           "price": "¥299",
-          "updatedAt": "2025-10-22T13:32:36.195Z",
+          "platform": "京东",
           "url": "https://item.jd.com/100090123456.html"
         }
-      ],
-      "updatedAt": "2025-01-15T10:33:00Z"
+      ]
     },
     {
-      "createdAt": "2025-01-15T10:35:00Z",
-      "description": "美妆",
-      "icon": "📦",
       "id": "cat-010",
       "name": "美妆",
+      "description": "美妆",
       "order": 9,
+      "createdAt": "2025-01-15T10:35:00Z",
+      "updatedAt": "2025-01-15T10:36:00Z",
       "products": [
         {
-          "createdAt": "2025-10-22T13:32:36.195Z",
           "id": "prod-031",
           "name": "MAC口红",
-          "platform": "天猫",
           "price": "¥190",
-          "updatedAt": "2025-10-22T13:32:36.195Z",
+          "platform": "天猫",
           "url": "https://detail.tmall.com/item.htm?id=901234567"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.195Z",
           "id": "prod-032",
           "name": "雅诗兰黛粉底液",
-          "platform": "京东",
           "price": "¥380",
-          "updatedAt": "2025-10-22T13:32:36.195Z",
+          "platform": "京东",
           "url": "https://item.jd.com/100001234567.html"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.195Z",
           "id": "prod-033",
           "name": "完美日记眼影盘",
-          "platform": "天猫",
           "price": "¥99",
-          "updatedAt": "2025-10-22T13:32:36.195Z",
+          "platform": "天猫",
           "url": "https://detail.tmall.com/item.htm?id=012345678"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.195Z",
           "id": "prod-034",
           "name": "花西子散粉",
-          "platform": "拼多多",
           "price": "¥159",
-          "updatedAt": "2025-10-22T13:32:36.195Z",
+          "platform": "拼多多",
           "url": "https://mobile.yangkeduo.com/goods.html?goods_id=678901234"
         },
         {
-          "createdAt": "2025-10-22T13:32:36.195Z",
           "id": "prod-035",
           "name": "欧莱雅眉笔",
-          "platform": "天猫",
           "price": "¥79",
-          "updatedAt": "2025-10-22T13:32:36.195Z",
+          "platform": "天猫",
           "url": "https://detail.tmall.com/item.htm?id=123456780"
         }
-      ],
-      "updatedAt": "2025-01-15T10:36:00Z"
+      ]
+    },
+    {
+      "id": "541616c0-af46-4c5d-8bf8-50214142ffd8",
+      "name": "洗发水",
+      "description": "洗发水",
+      "order": 10,
+      "createdAt": "2025-10-22T13:42:50.584Z",
+      "updatedAt": "2025-10-22T13:42:50.585Z",
+      "products": [
+        {
+          "id": "undefined",
+          "name": "EHD控油去屑蓬松洗发水",
+          "price": "79元/瓶，118元/2瓶",
+          "platform": "未知",
+          "url": "https://ehd.tmall.com"
+        },
+        {
+          "id": "undefined",
+          "name": "EHD二硫化硒控油去屑洗发水",
+          "price": "69元/瓶，108元/2瓶",
+          "platform": "未知",
+          "url": "https://ehd.tmall.com"
+        },
+        {
+          "id": "undefined",
+          "name": "海洋至尊控油蓬松洗发水",
+          "price": "99元/瓶，178元/2瓶",
+          "platform": "未知",
+          "url": "https://haiyangzhizun.tmall.com"
+        },
+        {
+          "id": "undefined",
+          "name": "海洋至尊生姜防脱洗发水",
+          "price": "168元/瓶，268元/2瓶",
+          "platform": "未知",
+          "url": "https://haiyangzhizun.tmall.com"
+        },
+        {
+          "id": "undefined",
+          "name": "珂岸氨基酸控油蓬松洗发水",
+          "price": "79元/瓶",
+          "platform": "未知",
+          "url": "https://kean.tmall.com"
+        }
+      ]
     }
   ]
 }
