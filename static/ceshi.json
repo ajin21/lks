@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "syncedAt": "2025-10-22T11:17:19.495Z",
+    "syncedAt": "2025-10-22T12:04:34.519Z",
     "version": "2.0.0",
-    "totalCategories": 6,
-    "totalProducts": 2
+    "totalCategories": 8,
+    "totalProducts": 8
   },
   "categories": [
     {
@@ -76,6 +76,68 @@
       "order": 5,
       "products": [],
       "updatedAt": "2025-10-22T08:22:50.542Z"
+    },
+    {
+      "createdAt": "2025-10-22T11:21:08.209Z",
+      "description": "洗衣液",
+      "id": "616379cb-ca78-4e46-9d26-3132a8d604b4",
+      "name": "洗衣液",
+      "order": 6,
+      "products": [
+        {
+          "id": "undefined",
+          "name": "立白洗衣液",
+          "platform": "淘宝",
+          "price": "99元",
+          "url": "https://gitmind.cn/app/docs/mw75nv5j"
+        }
+      ],
+      "updatedAt": "2025-10-22T11:21:08.209Z"
+    },
+    {
+      "createdAt": "2025-10-22T11:47:29.010Z",
+      "description": "洗发水",
+      "id": "e87ee4fa-7b2a-4f2d-9a4f-d0edbe39be20",
+      "name": "洗发水",
+      "order": 7,
+      "products": [
+        {
+          "id": "undefined",
+          "name": "EHD洗发水控油去屑蓬松专用洗发露",
+          "platform": "淘宝",
+          "price": "79元/瓶，118元/2瓶",
+          "url": "https://example.com/ehd-shampoo"
+        },
+        {
+          "id": "undefined",
+          "name": "EHD二硫化硒洗头水控油去屑蓬松毛囊清洁液",
+          "platform": "",
+          "price": "69元/瓶，108元/2瓶",
+          "url": "https://example.com/ehd-selenium"
+        },
+        {
+          "id": "undefined",
+          "name": "海洋至尊洗发水控油蓬松去屑留香",
+          "platform": "",
+          "price": "99元/瓶，178元/2瓶",
+          "url": "https://example.com/ocean-premium-oil"
+        },
+        {
+          "id": "undefined",
+          "name": "海洋至尊生姜洗发水防脱固发强韧发根",
+          "platform": "",
+          "price": "168元/瓶，268元/2瓶",
+          "url": "https://example.com/ocean-premium-ginger"
+        },
+        {
+          "id": "undefined",
+          "name": "华熙生物珂岸氨基酸洗发水控油去屑",
+          "platform": "",
+          "price": "79元",
+          "url": "https://example.com/kean-shampoo"
+        }
+      ],
+      "updatedAt": "2025-10-22T11:49:34.696Z"
     }
   ]
 }
