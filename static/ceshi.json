@@ -1,11 +1,29 @@
 {
   "metadata": {
-    "syncedAt": "2025-10-22T07:30:35.236Z",
+    "syncedAt": "2025-10-22T08:15:17.824Z",
     "version": "2.0.0",
-    "totalCategories": 3,
-    "totalProducts": 1
+    "totalCategories": 5,
+    "totalProducts": 2
   },
   "categories": [
+    {
+      "createdAt": "2025-10-22T06:48:50.350Z",
+      "description": "大师·",
+      "icon": "📦",
+      "id": "734aa062-477e-4f58-8a3a-813eaa484138",
+      "name": "大师·",
+      "order": 0,
+      "products": [
+        {
+          "id": "c8e389ae-e14d-479d-a5e7-f8bd4dba5837",
+          "name": "海飞丝·",
+          "platform": "京东",
+          "price": "99",
+          "url": "https://gitmind.cn/app/docs/mw75nv5j"
+        }
+      ],
+      "updatedAt": "2025-10-22T07:59:36.767Z"
+    },
     {
       "createdAt": "2025-10-21T15:52:15.116Z",
       "description": "洗衣粉",
@@ -21,16 +39,7 @@
           "url": "水电费"
         }
       ],
-      "updatedAt": "2025-10-21T15:52:15.116Z"
-    },
-    {
-      "createdAt": "2025-10-22T06:48:50.350Z",
-      "description": "大师·",
-      "id": "734aa062-477e-4f58-8a3a-813eaa484138",
-      "name": "大师·",
-      "order": 2,
-      "products": [],
-      "updatedAt": "2025-10-22T06:48:50.350Z"
+      "updatedAt": "2025-10-22T07:56:46.143Z"
     },
     {
       "createdAt": "2025-10-22T07:23:48.409Z",
@@ -40,6 +49,24 @@
       "order": 2,
       "products": [],
       "updatedAt": "2025-10-22T07:23:48.410Z"
+    },
+    {
+      "createdAt": "2025-10-22T08:14:32.375Z",
+      "description": "洗发水",
+      "id": "ca66831d-5544-4364-b3b2-06ef5e4e9aca",
+      "name": "洗发水",
+      "order": 3,
+      "products": [],
+      "updatedAt": "2025-10-22T08:14:32.375Z"
+    },
+    {
+      "createdAt": "2025-10-22T08:14:53.606Z",
+      "description": "fsd",
+      "id": "e2427e99-7481-47ac-9f44-40b9ae58beef",
+      "name": "fsd",
+      "order": 4,
+      "products": [],
+      "updatedAt": "2025-10-22T08:14:53.606Z"
     }
   ]
 }
