@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "syncedAt": "2025-10-23T14:12:21.297Z",
+    "syncedAt": "2025-10-23T14:25:43.403Z",
     "version": "2.0.0",
-    "totalCategories": 3,
-    "totalProducts": 15
+    "totalCategories": 4,
+    "totalProducts": 22
   },
   "categories": [
     {
@@ -149,6 +149,71 @@
           "price": "79元/瓶，118元/2瓶",
           "platform": "淘宝",
           "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/?spm_id_from=333.337.search-card.all.click&vd_source=d0c2e9f414274414c90cd8cdaf499bef",
+          "order": 0
+        }
+      ]
+    },
+    {
+      "id": "97c49f59-5818-4c3a-884c-0934b43135f5",
+      "name": "洗衣机",
+      "order": 3,
+      "createdAt": "2025-10-23T14:23:55.569Z",
+      "updatedAt": "2025-10-23T14:23:55.569Z",
+      "products": [
+        {
+          "id": "undefined",
+          "name": "小天鹅 TB100V26",
+          "price": "约2000-2500元",
+          "platform": "京东",
+          "url": "https://search.jd.com/Search?keyword=小天鹅TB100V26",
+          "order": 0
+        },
+        {
+          "id": "undefined",
+          "name": "海尔 XQB100",
+          "price": "约1800-2200元",
+          "platform": "天猫",
+          "url": "https://list.tmall.com/search_product.htm?q=海尔XQB100",
+          "order": 0
+        },
+        {
+          "id": "undefined",
+          "name": "美的 MB120L3D",
+          "price": "约2200-2800元",
+          "platform": "未知",
+          "url": "https://search.suning.com/美的MB120L3D",
+          "order": 0
+        },
+        {
+          "id": "undefined",
+          "name": "松下 XQB80",
+          "price": "约2500-3000元",
+          "platform": "京东",
+          "url": "https://search.jd.com/Search?keyword=松下XQB80",
+          "order": 0
+        },
+        {
+          "id": "undefined",
+          "name": "小天鹅小乌梅 TB10",
+          "price": "约1500-2000元",
+          "platform": "天猫",
+          "url": "https://list.tmall.com/search_product.htm?q=小天鹅小乌梅TB10",
+          "order": 0
+        },
+        {
+          "id": "undefined",
+          "name": "海尔 37Mate6",
+          "price": "约3000-3500元",
+          "platform": "未知",
+          "url": "https://www.haier.com/search?keyword=37Mate6",
+          "order": 0
+        },
+        {
+          "id": "undefined",
+          "name": "海尔 XQB120",
+          "price": "约2500-3200元",
+          "platform": "京东",
+          "url": "https://search.jd.com/Search?keyword=海尔XQB120",
           "order": 0
         }
       ]
