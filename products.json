@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "syncedAt": "2025-10-23T13:42:36.902Z",
+    "syncedAt": "2025-10-23T14:12:21.297Z",
     "version": "2.0.0",
-    "totalCategories": 2,
-    "totalProducts": 10
+    "totalCategories": 3,
+    "totalProducts": 15
   },
   "categories": [
     {
@@ -11,86 +11,145 @@
       "name": "洗发水",
       "order": 0,
       "createdAt": "2025-10-23T13:32:30.796Z",
-      "updatedAt": "2025-10-23T13:39:50.485Z",
+      "updatedAt": "2025-10-23T13:50:44.117Z",
       "products": [
         {
           "id": "undefined",
           "name": "EHD去屑洗发水",
           "price": "79元/瓶，118元/2瓶",
-          "platform": "day",
-          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/"
+          "platform": "da",
+          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/",
+          "order": 0
         },
         {
           "id": "undefined",
-          "name": "EHD二硫化硒洗发水",
-          "price": "69元/瓶，108元/2瓶",
-          "platform": "未知",
-          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/"
+          "name": "EHD去屑洗发水",
+          "price": "79元/瓶，118元/2瓶",
+          "platform": "da",
+          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/",
+          "order": 0
         },
         {
           "id": "undefined",
-          "name": "海洋至尊控油洗发水",
-          "price": "99元/瓶，178元/2瓶",
-          "platform": "未知",
-          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/"
+          "name": "EHD去屑洗发水",
+          "price": "79元/瓶，118元/2瓶",
+          "platform": "da",
+          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/",
+          "order": 0
         },
         {
           "id": "undefined",
-          "name": "海洋至尊防脱洗发水",
-          "price": "168元/瓶，268元/2瓶",
-          "platform": "未知",
-          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/"
+          "name": "EHD去屑洗发水",
+          "price": "79元/瓶，118元/2瓶",
+          "platform": "da",
+          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/",
+          "order": 0
         },
         {
           "id": "undefined",
-          "name": "珂岸氨基酸洗发水",
-          "price": "79元",
+          "name": "EHD去屑洗发水",
+          "price": "79元/瓶，118元/2瓶",
+          "platform": "da",
+          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/",
+          "order": 0
+        }
+      ]
+    },
+    {
+      "id": "e007c05f-ed10-49d9-bbf8-8de2ac4c660f",
+      "name": "洗衣机/洗烘套装",
+      "order": 1,
+      "createdAt": "2025-10-23T13:55:01.201Z",
+      "updatedAt": "2025-10-23T14:12:19.792Z",
+      "products": [
+        {
+          "id": "undefined",
+          "name": "小乌梅3.0轻享版12kg洗衣机",
+          "price": "3000元以内",
           "platform": "京东",
-          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/"
+          "url": "https://union-click.jd.com/jdc?p=JF8BAeUJK1olXwAFV1hVCk8XBV8IGloVXQEFVVpUDk8nRzBQRQQlBENHFRxWFlVMWzBeTA9KQl1XSwwDVFVPRjtUBAJQAVsMFgQZBBJWXRtxbltXBQVKCwAnbRBOa25YehgRDWgAERYqaDMTZjlQfQVeGH1mJitKSEdjeh9tbDh2A3EAJDgkezBUexpscjlPKQR2DFc7ahJ_RwxDYzx3FHZJIixUby9ka21raVNmP1x1FCkCXTtsYAxNbSJxOXFbHQApYTNPazBsaD5wA2NlDhceaxFjYRhRYBpjJGJiIz0qVjNnF219D1lgbXp9M1gFUhhIYyp6aTh2DlBJPBw0Eh0bD18IH1wcWAQDXFZcOEsWAm4BGVIdXAMyZF5YOBl51OquwsuHiquJgdXg3sGiUS5KzOCxiqONZFxcCUsTCmkLHV4lXQAFVF5cD0IWC2sMHGsVVQIyJ4jHoJ6coLe5o4-d09Ki725tOEgnM28JGlgcWwYHVlszDUsWAmYAGFITWWgAVV9ZCUwRB24AK1sWbQUyCjBcD08UBGcNHTVJBAZbDBldUiUXAWwMHFISWgcyVl9cCkknM19RWgVhJHMCFgZeQBRJeQpTQjMUDWdBUA4zCg5fdA9wHz5DBWBcHxsmbDliM2o4HVkTbQ&e=372072324_BV1xAxyzJEHr_1761227567344q172a27a10a182q9571",
+          "order": 4
+        },
+        {
+          "id": "undefined",
+          "name": "小乌梅3.0轻享版12kg洗衣机",
+          "price": "3000元以内",
+          "platform": "京东",
+          "url": "https://union-click.jd.com/jdc?p=JF8BAeUJK1olXwAFV1hVCk8XBV8IGloVXQEFVVpUDk8nRzBQRQQlBENHFRxWFlVMWzBeTA9KQl1XSwwDVFVPRjtUBAJQAVsMFgQZBBJWXRtxbltXBQVKCwAnbRBOa25YehgRDWgAERYqaDMTZjlQfQVeGH1mJitKSEdjeh9tbDh2A3EAJDgkezBUexpscjlPKQR2DFc7ahJ_RwxDYzx3FHZJIixUby9ka21raVNmP1x1FCkCXTtsYAxNbSJxOXFbHQApYTNPazBsaD5wA2NlDhceaxFjYRhRYBpjJGJiIz0qVjNnF219D1lgbXp9M1gFUhhIYyp6aTh2DlBJPBw0Eh0bD18IH1wcWAQDXFZcOEsWAm4BGVIdXAMyZF5YOBl51OquwsuHiquJgdXg3sGiUS5KzOCxiqONZFxcCUsTCmkLHV4lXQAFVF5cD0IWC2sMHGsVVQIyJ4jHoJ6coLe5o4-d09Ki725tOEgnM28JGlgcWwYHVlszDUsWAmYAGFITWWgAVV9ZCUwRB24AK1sWbQUyCjBcD08UBGcNHTVJBAZbDBldUiUXAWwMHFISWgcyVl9cCkknM19RWgVhJHMCFgZeQBRJeQpTQjMUDWdBUA4zCg5fdA9wHz5DBWBcHxsmbDliM2o4HVkTbQ&e=372072324_BV1xAxyzJEHr_1761227567344q172a27a10a182q9571",
+          "order": 4
+        },
+        {
+          "id": "undefined",
+          "name": "小乌梅3.0轻享版12kg洗衣机",
+          "price": "3000元以内",
+          "platform": "京东",
+          "url": "https://union-click.jd.com/jdc?p=JF8BAeUJK1olXwAFV1hVCk8XBV8IGloVXQEFVVpUDk8nRzBQRQQlBENHFRxWFlVMWzBeTA9KQl1XSwwDVFVPRjtUBAJQAVsMFgQZBBJWXRtxbltXBQVKCwAnbRBOa25YehgRDWgAERYqaDMTZjlQfQVeGH1mJitKSEdjeh9tbDh2A3EAJDgkezBUexpscjlPKQR2DFc7ahJ_RwxDYzx3FHZJIixUby9ka21raVNmP1x1FCkCXTtsYAxNbSJxOXFbHQApYTNPazBsaD5wA2NlDhceaxFjYRhRYBpjJGJiIz0qVjNnF219D1lgbXp9M1gFUhhIYyp6aTh2DlBJPBw0Eh0bD18IH1wcWAQDXFZcOEsWAm4BGVIdXAMyZF5YOBl51OquwsuHiquJgdXg3sGiUS5KzOCxiqONZFxcCUsTCmkLHV4lXQAFVF5cD0IWC2sMHGsVVQIyJ4jHoJ6coLe5o4-d09Ki725tOEgnM28JGlgcWwYHVlszDUsWAmYAGFITWWgAVV9ZCUwRB24AK1sWbQUyCjBcD08UBGcNHTVJBAZbDBldUiUXAWwMHFISWgcyVl9cCkknM19RWgVhJHMCFgZeQBRJeQpTQjMUDWdBUA4zCg5fdA9wHz5DBWBcHxsmbDliM2o4HVkTbQ&e=372072324_BV1xAxyzJEHr_1761227567344q172a27a10a182q9571",
+          "order": 4
+        },
+        {
+          "id": "undefined",
+          "name": "小乌梅3.0轻享版12kg洗衣机",
+          "price": "3000元以内",
+          "platform": "京东",
+          "url": "https://union-click.jd.com/jdc?p=JF8BAeUJK1olXwAFV1hVCk8XBV8IGloVXQEFVVpUDk8nRzBQRQQlBENHFRxWFlVMWzBeTA9KQl1XSwwDVFVPRjtUBAJQAVsMFgQZBBJWXRtxbltXBQVKCwAnbRBOa25YehgRDWgAERYqaDMTZjlQfQVeGH1mJitKSEdjeh9tbDh2A3EAJDgkezBUexpscjlPKQR2DFc7ahJ_RwxDYzx3FHZJIixUby9ka21raVNmP1x1FCkCXTtsYAxNbSJxOXFbHQApYTNPazBsaD5wA2NlDhceaxFjYRhRYBpjJGJiIz0qVjNnF219D1lgbXp9M1gFUhhIYyp6aTh2DlBJPBw0Eh0bD18IH1wcWAQDXFZcOEsWAm4BGVIdXAMyZF5YOBl51OquwsuHiquJgdXg3sGiUS5KzOCxiqONZFxcCUsTCmkLHV4lXQAFVF5cD0IWC2sMHGsVVQIyJ4jHoJ6coLe5o4-d09Ki725tOEgnM28JGlgcWwYHVlszDUsWAmYAGFITWWgAVV9ZCUwRB24AK1sWbQUyCjBcD08UBGcNHTVJBAZbDBldUiUXAWwMHFISWgcyVl9cCkknM19RWgVhJHMCFgZeQBRJeQpTQjMUDWdBUA4zCg5fdA9wHz5DBWBcHxsmbDliM2o4HVkTbQ&e=372072324_BV1xAxyzJEHr_1761227567344q172a27a10a182q9571",
+          "order": 4
+        },
+        {
+          "id": "undefined",
+          "name": "小乌梅3.0轻享版12kg洗衣机",
+          "price": "3000元以内",
+          "platform": "京东",
+          "url": "https://union-click.jd.com/jdc?p=JF8BAeUJK1olXwAFV1hVCk8XBV8IGloVXQEFVVpUDk8nRzBQRQQlBENHFRxWFlVMWzBeTA9KQl1XSwwDVFVPRjtUBAJQAVsMFgQZBBJWXRtxbltXBQVKCwAnbRBOa25YehgRDWgAERYqaDMTZjlQfQVeGH1mJitKSEdjeh9tbDh2A3EAJDgkezBUexpscjlPKQR2DFc7ahJ_RwxDYzx3FHZJIixUby9ka21raVNmP1x1FCkCXTtsYAxNbSJxOXFbHQApYTNPazBsaD5wA2NlDhceaxFjYRhRYBpjJGJiIz0qVjNnF219D1lgbXp9M1gFUhhIYyp6aTh2DlBJPBw0Eh0bD18IH1wcWAQDXFZcOEsWAm4BGVIdXAMyZF5YOBl51OquwsuHiquJgdXg3sGiUS5KzOCxiqONZFxcCUsTCmkLHV4lXQAFVF5cD0IWC2sMHGsVVQIyJ4jHoJ6coLe5o4-d09Ki725tOEgnM28JGlgcWwYHVlszDUsWAmYAGFITWWgAVV9ZCUwRB24AK1sWbQUyCjBcD08UBGcNHTVJBAZbDBldUiUXAWwMHFISWgcyVl9cCkknM19RWgVhJHMCFgZeQBRJeQpTQjMUDWdBUA4zCg5fdA9wHz5DBWBcHxsmbDliM2o4HVkTbQ&e=372072324_BV1xAxyzJEHr_1761227567344q172a27a10a182q9571",
+          "order": 4
         }
       ]
     },
     {
       "id": "ea4fb4ec-dbb1-4308-b1ea-e7b0f7a5b87c",
       "name": "洗发水",
-      "order": 1,
+      "order": 2,
       "createdAt": "2025-10-23T13:41:44.568Z",
-      "updatedAt": "2025-10-23T13:41:44.568Z",
+      "updatedAt": "2025-10-23T13:50:34.708Z",
       "products": [
         {
           "id": "undefined",
           "name": "EHD洗发水控油去屑蓬松专用洗发露",
           "price": "79元/瓶，118元/2瓶",
           "platform": "淘宝",
-          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/?spm_id_from=333.337.search-card.all.click&vd_source=d0c2e9f414274414c90cd8cdaf499bef"
+          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/?spm_id_from=333.337.search-card.all.click&vd_source=d0c2e9f414274414c90cd8cdaf499bef",
+          "order": 0
         },
         {
           "id": "undefined",
-          "name": "EHD二硫化硒洗头水控油去屑蓬松毛囊清洁液",
-          "price": "69元/瓶，108元/2瓶",
-          "platform": "天猫",
-          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/?spm_id_from=333.337.search-card.all.click&vd_source=d0c2e9f414274414c90cd8cdaf499bef"
-        },
-        {
-          "id": "undefined",
-          "name": "海洋至尊洗发水控油蓬松去屑留香",
-          "price": "99元/瓶，178元/2瓶",
-          "platform": "京东",
-          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/?spm_id_from=333.337.search-card.all.click&vd_source=d0c2e9f414274414c90cd8cdaf499bef"
-        },
-        {
-          "id": "undefined",
-          "name": "海洋至尊生姜洗发水防脱固发强韧发根",
-          "price": "168元/瓶，268元/2瓶",
-          "platform": "京东",
-          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/?spm_id_from=333.337.search-card.all.click&vd_source=d0c2e9f414274414c90cd8cdaf499bef"
-        },
-        {
-          "id": "undefined",
-          "name": "华熙生物珂岸氨基酸洗发水控油去屑",
-          "price": "79元",
+          "name": "EHD洗发水控油去屑蓬松专用洗发露",
+          "price": "79元/瓶，118元/2瓶",
           "platform": "淘宝",
-          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/?spm_id_from=333.337.search-card.all.click&vd_source=d0c2e9f414274414c90cd8cdaf499bef"
+          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/?spm_id_from=333.337.search-card.all.click&vd_source=d0c2e9f414274414c90cd8cdaf499bef",
+          "order": 0
+        },
+        {
+          "id": "undefined",
+          "name": "EHD洗发水控油去屑蓬松专用洗发露",
+          "price": "79元/瓶，118元/2瓶",
+          "platform": "淘宝",
+          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/?spm_id_from=333.337.search-card.all.click&vd_source=d0c2e9f414274414c90cd8cdaf499bef",
+          "order": 0
+        },
+        {
+          "id": "undefined",
+          "name": "EHD洗发水控油去屑蓬松专用洗发露",
+          "price": "79元/瓶，118元/2瓶",
+          "platform": "淘宝",
+          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/?spm_id_from=333.337.search-card.all.click&vd_source=d0c2e9f414274414c90cd8cdaf499bef",
+          "order": 0
+        },
+        {
+          "id": "undefined",
+          "name": "EHD洗发水控油去屑蓬松专用洗发露",
+          "price": "79元/瓶，118元/2瓶",
+          "platform": "淘宝",
+          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/?spm_id_from=333.337.search-card.all.click&vd_source=d0c2e9f414274414c90cd8cdaf499bef",
+          "order": 0
         }
       ]
     }
