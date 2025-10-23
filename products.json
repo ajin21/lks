@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "syncedAt": "2025-10-23T13:32:36.518Z",
+    "syncedAt": "2025-10-23T13:42:36.902Z",
     "version": "2.0.0",
-    "totalCategories": 1,
-    "totalProducts": 5
+    "totalCategories": 2,
+    "totalProducts": 10
   },
   "categories": [
     {
@@ -11,13 +11,13 @@
       "name": "洗发水",
       "order": 0,
       "createdAt": "2025-10-23T13:32:30.796Z",
-      "updatedAt": "2025-10-23T13:32:30.796Z",
+      "updatedAt": "2025-10-23T13:39:50.485Z",
       "products": [
         {
           "id": "undefined",
           "name": "EHD去屑洗发水",
           "price": "79元/瓶，118元/2瓶",
-          "platform": "未知",
+          "platform": "day",
           "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/"
         },
         {
@@ -45,8 +45,52 @@
           "id": "undefined",
           "name": "珂岸氨基酸洗发水",
           "price": "79元",
-          "platform": "未知",
+          "platform": "京东",
           "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/"
+        }
+      ]
+    },
+    {
+      "id": "ea4fb4ec-dbb1-4308-b1ea-e7b0f7a5b87c",
+      "name": "洗发水",
+      "order": 1,
+      "createdAt": "2025-10-23T13:41:44.568Z",
+      "updatedAt": "2025-10-23T13:41:44.568Z",
+      "products": [
+        {
+          "id": "undefined",
+          "name": "EHD洗发水控油去屑蓬松专用洗发露",
+          "price": "79元/瓶，118元/2瓶",
+          "platform": "淘宝",
+          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/?spm_id_from=333.337.search-card.all.click&vd_source=d0c2e9f414274414c90cd8cdaf499bef"
+        },
+        {
+          "id": "undefined",
+          "name": "EHD二硫化硒洗头水控油去屑蓬松毛囊清洁液",
+          "price": "69元/瓶，108元/2瓶",
+          "platform": "天猫",
+          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/?spm_id_from=333.337.search-card.all.click&vd_source=d0c2e9f414274414c90cd8cdaf499bef"
+        },
+        {
+          "id": "undefined",
+          "name": "海洋至尊洗发水控油蓬松去屑留香",
+          "price": "99元/瓶，178元/2瓶",
+          "platform": "京东",
+          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/?spm_id_from=333.337.search-card.all.click&vd_source=d0c2e9f414274414c90cd8cdaf499bef"
+        },
+        {
+          "id": "undefined",
+          "name": "海洋至尊生姜洗发水防脱固发强韧发根",
+          "price": "168元/瓶，268元/2瓶",
+          "platform": "京东",
+          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/?spm_id_from=333.337.search-card.all.click&vd_source=d0c2e9f414274414c90cd8cdaf499bef"
+        },
+        {
+          "id": "undefined",
+          "name": "华熙生物珂岸氨基酸洗发水控油去屑",
+          "price": "79元",
+          "platform": "淘宝",
+          "url": "https://www.bilibili.com/video/BV1hWMQzTEbV/?spm_id_from=333.337.search-card.all.click&vd_source=d0c2e9f414274414c90cd8cdaf499bef"
         }
       ]
     }
